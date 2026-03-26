@@ -8,7 +8,7 @@
 
 ```bash
 # Clone repository
-git clone <>
+git clone <https://github.com/Yugal88943/space-ai-anomaly-detection>
 cd space_ai_project
 
 # Install dependencies
