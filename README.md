@@ -133,3 +133,12 @@ space_ai_project/
 │--runtime.txt
 ├── requirements.txt
 ├── README.md
+
+
+---
+
+## 👨‍💻 Author
+**Yugal**
+
+⭐ If you like this project
+Give it a ⭐ on GitHub and feel free to contribute!
